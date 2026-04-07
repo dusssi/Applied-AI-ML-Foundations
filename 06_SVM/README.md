@@ -9,6 +9,8 @@ Classify data using SVM with different kernels.
 - PCA (for visualization)
 
 ## Output
+<img width="322" height="375" alt="image" src="https://github.com/user-attachments/assets/b60cb1cc-8bed-4e7a-9547-fbf22ae81256" />
+
 - Accuracy comparison across kernels
 - Best parameters using GridSearch
 - Decision boundary visualization
