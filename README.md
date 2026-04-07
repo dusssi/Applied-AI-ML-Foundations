@@ -14,24 +14,24 @@
 
 ## 🚀 Overview
 
-This repository is a hands-on implementation of core Machine Learning concepts, built as a structured journey from **unsupervised learning → supervised learning → model evaluation**.
+This repository presents a hands-on implementation of core Machine Learning concepts, structured as a progressive journey from **unsupervised learning → supervised learning → model evaluation**.
 
-It focuses on **understanding and applying ML techniques**, not just using them.
+The focus is on **understanding, experimentation, and practical application**, rather than just using pre-built models.
 
 ---
 
 ## 📂 Project Structure
 
-| No. | Module              | Description                                       |
-| --- | ------------------- | ------------------------------------------------- |
-| 01  | K-Means Clustering  | Customer segmentation using unsupervised learning |
-| 02  | DBSCAN              | Anomaly detection in data                         |
-| 03  | PCA                 | Dimensionality reduction and visualization        |
-| 04  | PCA + KMeans        | Pipeline combining reduction and clustering       |
-| 05  | Logistic Regression | Classification with regularization and ROC        |
-| 06  | SVM                 | Kernel-based classification with tuning           |
-| 07  | Random Forest       | Ensemble learning and feature importance          |
-| 08  | Model Comparison    | Performance comparison across models              |
+| No. | Module              | Description                                            |
+| --- | ------------------- | ------------------------------------------------------ |
+| 01  | K-Means Clustering  | Customer segmentation using unsupervised learning      |
+| 02  | DBSCAN              | Anomaly detection and noise identification             |
+| 03  | PCA                 | Dimensionality reduction and data visualization        |
+| 04  | PCA + KMeans        | Pipeline combining feature reduction and clustering    |
+| 05  | Logistic Regression | Classification with regularization and ROC analysis    |
+| 06  | SVM                 | Kernel-based classification with hyperparameter tuning |
+| 07  | Random Forest       | Ensemble learning and feature importance analysis      |
+| 08  | Model Comparison    | Comparative evaluation across multiple models          |
 
 ---
 
@@ -68,16 +68,17 @@ It focuses on **understanding and applying ML techniques**, not just using them.
 
 ## 🎯 Learning Outcomes
 
-* Built ML models from scratch using real datasets
-* Compared multiple algorithms based on performance
-* Understood trade-offs between accuracy and generalization
-* Applied ML workflows similar to real-world scenarios
+* Built machine learning models from scratch using real datasets
+* Compared multiple algorithms based on performance metrics
+* Understood trade-offs between accuracy, complexity, and generalization
+* Applied end-to-end ML workflow similar to real-world scenarios
 
 ---
 
 ## ⚡ Final Insight
 
-> There is no “best model” — only the best model for a given problem.
+> Machine Learning is not about choosing the most complex model —
+> it’s about choosing the **right model for the right problem**.
 
 ---
 
